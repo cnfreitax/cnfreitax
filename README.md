@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Currently working with web development using Javascript and small machine learning projects
+
 <!--
 **cnfreitax/cnfreitax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
